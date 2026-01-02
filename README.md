@@ -9,9 +9,7 @@ The system uses the **Random Forest algorithm** to classify network traffic as:
 - **Malicious (Intrusion / Attack traffic)**
 
 A **Streamlit-based interactive dashboard** is developed to simulate network traffic,
-train the model, evaluate performance, and test live traffic behavior.
-
-This project is developed as a **Major Project** for academic evaluation.
+train the model, evaluate performance, and test live traffic behavior
 
 ---
 
